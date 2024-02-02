@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="style.css">
+<title>Tacos cruz</title>
+ 
+
+  
+</head>
+
+<body>
+
+
+     <h1 class="heading-1"><a
+href="https://e5409d70-350a-40dc-b224-10c86dbaeb71-00-1mt3o1fbg27ef.kirk.replit.dev/">|-Menu-</a>
+
+       
+|----------| 
+<a 
+href="https://506e8f1b-1155-4528-b463-bc1f4c50e5f9-00-f3a71mpxyjo.worf.replit.dev/">-Ubication-| </h1></a>
+
+<h1><a class="heading-2" href="tel:3608242892">|-360-824-289-</a></h1>
+   <h1 class="heading-3">Tacos Cruz</h1>
+  <h1>Los mejores tacos de la bahia</h1>
+
+<div> <img class="bigger" src="MEA-Photos-App-windows-10-1.webp" alt=""><img src="MEA-Photos-App-windows-10-1.webp" alt="">
+  
+  <img src="MEA-Photos-App-windows-10-1.webp" alt=""><img src="MEA-Photos-App-windows-10-1.webp" alt=""> </div>
+</body>
+  
+
+
+
+</html>
+
+
+
+
+
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Page Title</title> 
+
+<style> 
+html { 
+background-image: url("grunge-mexican-flag_u-l-pqr7u00.jpg"); 
+ background-repeat: no-repeat; 
+ background-size:100% 100% ;
+  background-position-y: 1px;
+  
+}  
+  
+
+  }  
+</style> 
+</head> 
+<body> 
+
+</body> 
+  </div>
+</html> 
